@@ -60,6 +60,7 @@
 		<script src="dist/js/adminlte.min.js"></script>
 		<script src="components/lobibox/js/lobibox.js"></script>
 	</head>
+	teste comit
 	<body class="hold-transition skin-blue sidebar-mini">
 		<?php include "./functions.php"; ?>
 		<div class="wrapper">
